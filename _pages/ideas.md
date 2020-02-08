@@ -10,7 +10,7 @@ Workshops in preparation:
 * VIM and pandoc
 * jupyter notebooks
 * managing scientific bibliographies
-* reating personal sites using jekyll
+* creating personal sites using jekyll
 * ssh
 * data analysis series
 * python series
