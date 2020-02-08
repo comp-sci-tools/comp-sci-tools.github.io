@@ -6,5 +6,5 @@ permalink: /workshops/
 
 Lessons:
 
-* [Git series](https://comp-sci-tools.github.io/git-intro/)
+* [Introduction to Git](https://comp-sci-tools.github.io/git-intro/)
 
