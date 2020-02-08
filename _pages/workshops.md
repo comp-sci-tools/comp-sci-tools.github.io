@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lessons
-permalink: /lessons/
+title: Workshops
+permalink: /workshops/
 ---
 
 Lessons:
