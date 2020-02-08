@@ -1,14 +1,13 @@
 title: Comp-sci-tools
 email: gosia.olejniczak@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   We meet and discuss the best practices in computational sciences.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://comp-sci-tools.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+github: "https://github.com/comp-sci-tools/comp-sci-tools.github.io" 
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+include:
+  - _pages

@@ -6,5 +6,12 @@ permalink: /ideas/
 
 Workshops in preparation:
 
-* [Editors](link-to-editors)
+* Git series
+* VIM and pandoc
+* jupyter notebooks
+* managing scientific bibliographies
+* reating personal sites using jekyll
+* ssh
+* data analysis series
+* python series
 
