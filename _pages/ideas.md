@@ -6,8 +6,8 @@ permalink: /ideas/
 
 Workshops in preparation:
 
-* Git series
-* VIM and pandoc
+* Git
+* editors: VIM, pandoc, LaTeX
 * jupyter notebooks
 * managing scientific bibliographies
 * creating personal sites using jekyll
