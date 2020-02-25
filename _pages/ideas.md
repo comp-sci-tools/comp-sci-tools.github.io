@@ -1,15 +1,14 @@
 ---
 layout: page
-title: List of ideas
+title: Workshops in preparation
 permalink: /ideas/
 ---
 
-Workshops in preparation:
 
 * Git
-* editors: VIM, pandoc, LaTeX
-* jupyter notebooks
+* editors: VIM, pandoc, LaTeX (+LyX)
 * managing scientific bibliographies
+* jupyter notebooks
 * creating personal sites using jekyll
 * ssh
 * data analysis series
