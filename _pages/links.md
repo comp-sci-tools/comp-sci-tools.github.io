@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Links
 permalink: /links/
 ---
 
-## Inspirations:
 
 * [CodeRefinery](https://coderefinery.org/)
 * The Carpentries:
